@@ -1,0 +1,28 @@
+name: DustyInc
+favicon: null
+layout_spectrum: 0.5380487106740475
+typography_spectrum: 0.8460675950627774
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.09616888593882322
+  lightness: 0.3838238704483956
+  saturation: 0.5619965575169772
+  rhythmicContrast: 0.4683306491933763
+purpose: []
