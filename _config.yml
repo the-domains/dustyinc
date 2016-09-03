@@ -1,20 +1,4 @@
-name: DustyInc
-favicon: null
-layout_spectrum: 0.49099
 typography_spectrum: 0.8460675950627774
-title: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -26,4 +10,21 @@ color:
   lightness: 0.3838238704483956
   saturation: 0.5619965575169772
   rhythmicContrast: 0.4683306491933763
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.49099
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: DustyInc
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: null
+description: Business Management Company
 purpose: []
